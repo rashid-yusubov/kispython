@@ -1,4 +1,4 @@
-#  Задача №2. 
+#  Задача №2
 Реализовать кусочную функцию:
 
 ![image](https://github.com/user-attachments/assets/a8c37d43-2590-43b1-b44e-cc64972a6d24)
