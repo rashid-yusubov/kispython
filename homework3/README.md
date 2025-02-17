@@ -1,4 +1,4 @@
-#  Задача №3. 
+#  Задача №3
 Реализовать итерационную функцию:
 
 ![image](https://github.com/user-attachments/assets/c185cafd-a314-441b-a44b-f4e781e3c09a)
