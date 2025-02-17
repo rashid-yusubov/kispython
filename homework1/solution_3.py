@@ -1,4 +1,3 @@
-import math
 from math import floor, sqrt
 
 
