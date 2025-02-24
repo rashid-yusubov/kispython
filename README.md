@@ -8,3 +8,5 @@
 - Самостоятельная работа №2 - [homework2](https://github.com/rashid-yusubov/kispython/tree/main/homework2)
   
 - Самостоятельная работа №3 - [homework3](https://github.com/rashid-yusubov/kispython/tree/main/homework3)
+
+- Самостоятельная работа №4 - [homework4](https://github.com/rashid-yusubov/kispython/tree/main/homework4)
