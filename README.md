@@ -10,3 +10,5 @@
 - Самостоятельная работа №3 - [homework3](https://github.com/rashid-yusubov/kispython/tree/main/homework3)
 
 - Самостоятельная работа №4 - [homework4](https://github.com/rashid-yusubov/kispython/tree/main/homework4)
+
+- Самостоятельная работа №5 - [homework5](https://github.com/rashid-yusubov/kispython/tree/main/homework5)
