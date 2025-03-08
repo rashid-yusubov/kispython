@@ -1,7 +1,7 @@
 #  Задача №1
 Реализовать функцию:
 
-![image](https://github.com/user-attachments/assets/2e0210ae-a505-427d-a2ac-71d6470bbdaf)
+![image](https://github.com/user-attachments/assets/2c9719a3-8c10-4b1b-8af7-5c76c2c1fc38)
 
 В отправляемом коде на языке программирования Python должна присутствовать функция main и не должно быть какого-либо ввода/вывода. Поддерживается использование модулей только из стандартной библиотеки Python.
 
