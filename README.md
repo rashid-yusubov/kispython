@@ -13,6 +13,8 @@
 
 - Самостоятельная работа №5 - [homework5](https://github.com/rashid-yusubov/kispython/tree/main/homework5)
 
+- Самостоятельная работа №6 - [homework6](https://github.com/rashid-yusubov/kispython/tree/main/homework6)
+
 ### Команды для сборки и запуска
 
 #### Клонирование репозитория:
