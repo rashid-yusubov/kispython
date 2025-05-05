@@ -15,6 +15,7 @@
 | 8  | Самостоятельная работа №8  | [homework08](https://github.com/rashid-yusubov/kispython/tree/main/homework08) | ✅ Все решения |
 | 9  | Самостоятельная работа №9  | [homework09](https://github.com/rashid-yusubov/kispython/tree/main/homework09) | ✅ Все решения |
 | 10 | Самостоятельная работа №10 | [homework10](https://github.com/rashid-yusubov/kispython/tree/main/homework10) | ⚠️ Частично выполнено |
+| 11 | Самостоятельная работа №11 | [homework11](https://github.com/rashid-yusubov/kispython/tree/main/homework11) | ✅ Все решения |
 
 ### Команды для сборки и запуска
 
